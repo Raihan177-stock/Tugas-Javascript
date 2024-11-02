@@ -1,0 +1,7 @@
+var kegiatan = "Latihan"
+var nama = "Raihan zaky"
+let kelas = "Umum"
+let jurusan = "Smk"
+const alamat = "pasir sebelah"
+let kelas_yang_dimiliki = "Java Script"
+const Hobi = "game"
